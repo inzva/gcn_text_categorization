@@ -3,7 +3,7 @@ Inzva AI Projects #4, Text Categorization Using GCN
 ![Showcase Cover with Photos](docs/pics/showcase_cover_with_photos.jpeg)
 
 ## Abstract
-Our project aims to tackle text classification problem with novel approaches Graph Convolutional Networks and Graph Attention Networks using Deep Learning algorithms and Natural Language Processing Techniques.
+Our project aims to tackle the text classification problem with novel approaches Graph Convolutional Networks and Graph Attention Networks using Deep Learning algorithms and Natural Language Processing Techniques.
 
 ## Build
 It is applicable for only Linux distros. You can update the commands and use the equivalent ones in other distros (Mac, Windows, etc.) Executing ```buid.sh``` will create a new _virtual environment_ in the project folder and install dependencies into that. Run the following command to build: 
